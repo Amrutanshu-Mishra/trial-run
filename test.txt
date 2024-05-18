@@ -1,1 +1,6 @@
-ECHO is on.
+Heloo homies
+I am amrutanshu mishra
+Practicing git 
+
+
+
